@@ -1,6 +1,6 @@
 module.exports = function( grunt ) {
-  grunt.initConfig({
-    pkg: grunt.file.readJSON( "package2.json" ),
+<<<<<<< HEAD
+>>>>>>> 5ccce2e... Change Gruntfile to use package1.json
 
     recess: {
       dist: {
